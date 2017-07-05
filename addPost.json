@@ -7,6 +7,40 @@
   "organization":{
        "name":"Uttar Pradesh Power Corporation Limited (UPPCL)",
        "location_id":null
-    }
+    },
+   "seat_matrix":{
+      "total":20,
+       "general":10,
+       "obc": 5,
+       "sc":3,
+       "st":1,
+       "pwd":1,
+       "extra":"Reservation as per govt policy"
+   },
+   "salary":{
+      "type":"C",
+       "salary":10000
+    },
+   "eligibility":[
+       {
+       "degree":"B.Tech",
+       "subject":"Mechanical Engineering",
+       "course_duration":"4 years",
+       "experience":"2 years"
+       },
+       {
+       "degree":"B.Tech",
+       "subject":"Automation Engineering",
+       "course_duration":"4 years",
+       "experience":"2 years"
+       }
+       {
+       "id":1
+       "experience":"2 years"
+       }
+   ]
+  "career"{
+     
+     }
 
 }
