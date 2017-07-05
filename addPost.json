@@ -1,0 +1,12 @@
+{
+
+  "locations":{
+         "organization":{"state":"UttarPradesh","city":"Lucknow"},
+         "post":{"state":"UttarPradesh","city":"Allahabad"}
+      },
+  "organization":{
+       "name":"Uttar Pradesh Power Corporation Limited (UPPCL)",
+       "location_id":null
+    }
+
+}
