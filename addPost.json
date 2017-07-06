@@ -21,26 +21,34 @@
       "type":"C",
        "salary":10000
     },
-   "eligibility":[
-       {
+   "eligibility":{
+       "1":{
        "degree":"B.Tech",
        "subject":"Mechanical Engineering",
        "course_duration":"4 years",
        "experience":"2 years"
        },
-       {
+      "2": {
        "degree":"B.Tech",
        "subject":"Automation Engineering",
        "course_duration":"4 years",
        "experience":"2 years"
        }
-       {
-       "id":1
-       "experience":"2 years"
-       }
-   ]
-  "career"{
+   },
+   "eligibility_mapping":[
+         {
+           "eligibility_id":1,
+            "experience":2
+         }
+      ]
+    ,
+  "post":{
+      "post":"new post",
+      "post_description":"post description",
+      "start_date":"",
+      "last_date":""
      
      }
 
 }
+
